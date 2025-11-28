@@ -4,7 +4,7 @@
 
 Proyek ini dibangun dengan fokus utama pada efisiensi biaya (zero-cost infrastructure) dan kecepatan inferensi tinggi. Menggabungkan kekuatan LLM untuk teks dan Stable Diffusion untuk visual dalam antarmuka yang minimalis.
 
-🔗 Live Demo: Coba Aplikasi di Sini
+🔗 Live Demo: (https://okitarung-qwenguard-demo-01.hf.space/)
 
 ✨ Fitur Utama
 
