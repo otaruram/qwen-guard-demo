@@ -2,7 +2,7 @@
 
 Sebuah aplikasi Chatbot AI bergaya Brutalis (Monokrom) yang mampu melakukan percakapan teks cerdas dan menghasilkan gambar secara otomatis. Proyek ini dibangun dengan fokus pada efisiensi biaya (zero-cost infrastructure) dan kecepatan inferensi tinggi.
 
-🔗 Live Demo: Klik di sini untuk mencoba aplikasi
+🔗 Live Demo:https://okitarung-qwenguard-demo-01.hf.space/
 
 ✨ Fitur Utama
 
